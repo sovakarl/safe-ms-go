@@ -1,4 +1,4 @@
-module github.com/nast1g/safe-ms-go
+module github.com/sovakarl/safe-ms-go
 
 go 1.25.0
 
